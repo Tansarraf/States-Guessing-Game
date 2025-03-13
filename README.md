@@ -5,6 +5,7 @@ A fun Python-based game where players guess the Indian states on a map.
 
 ## 📷 Screenshot
 ![Screenshot (131)](https://github.com/user-attachments/assets/8c2f1f1c-b17d-4980-b135-ea121c2cde9f)
+![Screenshot (132)](https://github.com/user-attachments/assets/efd584fe-781d-444b-9184-f52c01c8c8c7)
 
 ---
 
